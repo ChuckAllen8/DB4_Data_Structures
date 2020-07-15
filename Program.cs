@@ -6,7 +6,8 @@ namespace DB4_Data_Structures
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            StackReverse app = new StackReverse();
+            app.Start();
         }
     }
 }

@@ -1,0 +1,13 @@
+C:\devbuild4\DB4_Data_Structures\bin\Debug\netcoreapp3.1\DB4_Data_Structures.exe
+C:\devbuild4\DB4_Data_Structures\bin\Debug\netcoreapp3.1\DB4_Data_Structures.deps.json
+C:\devbuild4\DB4_Data_Structures\bin\Debug\netcoreapp3.1\DB4_Data_Structures.runtimeconfig.json
+C:\devbuild4\DB4_Data_Structures\bin\Debug\netcoreapp3.1\DB4_Data_Structures.runtimeconfig.dev.json
+C:\devbuild4\DB4_Data_Structures\bin\Debug\netcoreapp3.1\DB4_Data_Structures.dll
+C:\devbuild4\DB4_Data_Structures\bin\Debug\netcoreapp3.1\DB4_Data_Structures.pdb
+C:\devbuild4\DB4_Data_Structures\obj\Debug\netcoreapp3.1\DB4_Data_Structures.csprojAssemblyReference.cache
+C:\devbuild4\DB4_Data_Structures\obj\Debug\netcoreapp3.1\DB4_Data_Structures.AssemblyInfoInputs.cache
+C:\devbuild4\DB4_Data_Structures\obj\Debug\netcoreapp3.1\DB4_Data_Structures.AssemblyInfo.cs
+C:\devbuild4\DB4_Data_Structures\obj\Debug\netcoreapp3.1\DB4_Data_Structures.csproj.CoreCompileInputs.cache
+C:\devbuild4\DB4_Data_Structures\obj\Debug\netcoreapp3.1\DB4_Data_Structures.dll
+C:\devbuild4\DB4_Data_Structures\obj\Debug\netcoreapp3.1\DB4_Data_Structures.pdb
+C:\devbuild4\DB4_Data_Structures\obj\Debug\netcoreapp3.1\DB4_Data_Structures.genruntimeconfig.cache
